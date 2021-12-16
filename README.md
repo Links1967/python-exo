@@ -1,6 +1,6 @@
-# Solutions des esceroercieece donner d'algo et prog
+# Solutions des excercices donner d'algo et prog
 
 
-## classe: 6tqi   
+## classe: 5TQI   
 
-mes ecxcercuereoce ntos disponibles [ici->]https://github.com/Links1967/python-exo
+les excercices sont disponibles [ici](https://github.com/qcarpentier/algo-exercices-5tqi)
